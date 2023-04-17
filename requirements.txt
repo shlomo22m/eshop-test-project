@@ -1,0 +1,6 @@
+requests
+pika
+pytest
+pytest-html-reporter
+pyodbc
+docker
